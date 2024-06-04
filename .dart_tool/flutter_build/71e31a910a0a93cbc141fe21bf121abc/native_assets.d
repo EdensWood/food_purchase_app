@@ -1,0 +1,1 @@
+ C:\\Users\\DELL\\Desktop\\flutter_projects\\food_purchase_app\\.dart_tool\\flutter_build\\71e31a910a0a93cbc141fe21bf121abc\\native_assets.yaml: 

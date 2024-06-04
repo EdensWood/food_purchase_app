@@ -1,0 +1,13 @@
+dev.isar.isar_flutter_libs-jetified-startup-runtime-1.1.1-0 C:\Users\DELL\.gradle\caches\transforms-3\07cbb4067cbb1399526d13b2ea3fc99f\transformed\jetified-startup-runtime-1.1.1\res
+dev.isar.isar_flutter_libs-core-1.6.0-1 C:\Users\DELL\.gradle\caches\transforms-3\1227bb32d338e358eff4c5bf5b08270c\transformed\core-1.6.0\res
+dev.isar.isar_flutter_libs-jetified-window-1.0.0-beta04-2 C:\Users\DELL\.gradle\caches\transforms-3\1f063c91a907141588f51f373b1f5f4a\transformed\jetified-window-1.0.0-beta04\res
+dev.isar.isar_flutter_libs-jetified-window-java-1.0.0-beta04-3 C:\Users\DELL\.gradle\caches\transforms-3\6d2f8042b989e9f02a2914d91ea7c64c\transformed\jetified-window-java-1.0.0-beta04\res
+dev.isar.isar_flutter_libs-jetified-annotation-experimental-1.1.0-4 C:\Users\DELL\.gradle\caches\transforms-3\a15c6353ebee292a754ca976f2ce177d\transformed\jetified-annotation-experimental-1.1.0\res
+dev.isar.isar_flutter_libs-main-5 C:\Users\DELL\AppData\Local\Pub\Cache\hosted\pub.dev\isar_flutter_libs-3.1.0+1\android\src\main\res
+dev.isar.isar_flutter_libs-release-6 C:\Users\DELL\AppData\Local\Pub\Cache\hosted\pub.dev\isar_flutter_libs-3.1.0+1\android\src\release\res
+dev.isar.isar_flutter_libs-pngs-7 C:\Users\DELL\Desktop\flutter_projects\food_purchase_app\build\isar_flutter_libs\generated\res\pngs\release
+dev.isar.isar_flutter_libs-resValues-8 C:\Users\DELL\Desktop\flutter_projects\food_purchase_app\build\isar_flutter_libs\generated\res\resValues\release
+dev.isar.isar_flutter_libs-rs-9 C:\Users\DELL\Desktop\flutter_projects\food_purchase_app\build\isar_flutter_libs\generated\res\rs\release
+dev.isar.isar_flutter_libs-mergeReleaseResources-10 C:\Users\DELL\Desktop\flutter_projects\food_purchase_app\build\isar_flutter_libs\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.isar.isar_flutter_libs-mergeReleaseResources-11 C:\Users\DELL\Desktop\flutter_projects\food_purchase_app\build\isar_flutter_libs\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.isar.isar_flutter_libs-merged_res-12 C:\Users\DELL\Desktop\flutter_projects\food_purchase_app\build\isar_flutter_libs\intermediates\merged_res\release

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702562175416",
+    "project_id": "foodpurchaseapp",
+    "storage_bucket": "foodpurchaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702562175416:android:7d6c4da7a52b936ec3674d",
+        "android_client_info": {
+          "package_name": "com.example.food_purchase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKS5fAcKBFTOOSneGyJ05YyKE6ecOcbWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

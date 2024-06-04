@@ -1,0 +1,19 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+_$FoodItemImpl _$$FoodItemImplFromJson(Map<String, dynamic> json) =>
+    _$FoodItemImpl(
+      id: (json['id'] as num).toInt(),
+      title: json['title'] as String,
+      image: json['image'] as String,
+      quantity: (json['quantity'] as num?)?.toInt() ?? 1,
+    );
+
+Map<String, dynamic> _$$FoodItemImplToJson(_$FoodItemImpl instance) =>
+    <String, dynamic>{
+      'id': instance.id,
+      'title': instance.title,
+      'image': instance.image,
+      'quantity': instance.quantity,
+    };
