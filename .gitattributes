@@ -1,2 +1,0 @@
-app-debug.pak filter=lfs diff=lfs merge=lfs -text
-apk-debug.pak filter=lfs diff=lfs merge=lfs -text
